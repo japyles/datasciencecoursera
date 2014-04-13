@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Homebrew
 ========
 Features, usage and installation instructions are [summarized on the homepage][home].
@@ -48,3 +49,7 @@ We accept tips through [Gittip][tip].
 [braumeister]:http://braumeister.org
 [license]:https://github.com/Homebrew/homebrew/tree/master/Library/Homebrew/LICENSE
 [tip]:https://www.gittip.com/Homebrew/
+=======
+datasciencecoursera
+===================
+>>>>>>> a34ee88fa8c5ab3cbf7f6ae8ac4903e7c9e03707
